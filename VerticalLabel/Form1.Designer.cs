@@ -188,7 +188,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(227, 19);
             this.label3.TabIndex = 13;
-            this.label3.Text = "Possible text rortations";
+            this.label3.Text = "Possible text rotations";
             // 
             // Form1
             // 
@@ -211,7 +211,7 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Rotatable Label Demo";
             this.ResumeLayout(false);
             this.PerformLayout();
 
